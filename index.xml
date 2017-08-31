@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>Futbol</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rubendgl/rdgl/master/futbol.xml</externallink>
+</item>
+ 
+<item>
+<title>Formula 1</title>
+<thumbnail>https://www.neostuff.net/wp-content/uploads/2014/07/formula1-logo.png</thumbnail>
+<fanart>https://www.formula1.com/content/fom-website/en/championship/races/2017/Italy/_jcr_content/par/manual_gallery_0/image3.img.1024.medium.jpg/1425580272873.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rubendgl/rdgl/master/formula1.xml</externallink>
+</item>
+ 
+<item>
+<title>Moto GP</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rubendgl/rdgl/master/motogp.xml</externallink>
+</item>
+ 
