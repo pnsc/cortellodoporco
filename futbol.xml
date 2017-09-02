@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+	<title>[COLOR white]03/09/17[/COLOR]</title>
 	<title>[COLOR white]FRANCIA vs HOLANDA[/COLOR][COLOR lime] 20:45[/COLOR]</title>
             <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision1</link>
             <regex>
